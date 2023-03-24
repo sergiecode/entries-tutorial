@@ -16,19 +16,19 @@ Antes de comenzar con este tutorial, es necesario tener un conocimiento básico 
 
 1.  Crear un objeto que contenga algunas propiedades clave-valor:
 
-    const myObject = {
+    `const myObject = {
       name: "Juan",
       age: 25,
       gender: "masculino"
-    };
+    };` 
 
 2.  Utilizar el método `entries` en el objeto creado en el paso anterior:
 
-    const entries = Object.entries(myObject);
+    `const entries = Object.entries(myObject);` 
 
 3.  Imprimir el resultado en la consola:
 
-    console.log(entries);
+    `console.log(entries);` 
 
 4.  Ejecutar el código y ver los resultados en la consola.
 
