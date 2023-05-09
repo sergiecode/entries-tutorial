@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/entries-tutorial/master/entries-tutorial.jpg)
+![Uso de método entries en Javascript](https://raw.githubusercontent.com/sergiecode/entries-tutorial/master/entries-tutorial.jpg)
 
 # Tutorial: Cómo utilizar el método `entries` de JavaScript
 
